@@ -1,0 +1,3 @@
+[submodule "typst-lr1-parser-generator"]
+	path = typst-lr1-parser-generator
+	url = git@github.com:elteammate/typst-lr1-parser-generator.git
